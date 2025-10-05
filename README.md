@@ -8,7 +8,6 @@
   </p>
 
   <p>
-    <a href="https://github.com/Forked Coin/Forked Coin/actions"><img alt="Build Status" src="https://github.com/Forked Coin/Forked Coin/actions/workflows/tests.yaml/badge.svg" /></a>
     <a href="https://Forked Coin-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
     <a href="https://discord.gg/Forked Coin"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
     <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Forked Coin/Forked Coin?color=blueviolet" /></a>
@@ -166,5 +165,6 @@ Forked Coin represents the future that Anatoly envisioned: a world where blockch
     <img src="https://contrib.rocks/image?repo=Forked Coin/Forked Coin" width="100%" />
   </a>
 </div>
+
 
 
